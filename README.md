@@ -1,9 +1,7 @@
 # React + TypeScript + Vite
 
 [![Official Website](https://img.shields.io/badge/Demo-%23096bde?style=for-the-badge&logo=vercel&label=try)](https://proprietary-ai.onrender.com/)
-## Demo Screenshot
-
-  <p><a href="docs/record.gif"><img src="./public/record.gif" width='700' alt="New Typing Avatars"/></a></p>
+  <p align='center'><a href="docs/record.gif"><img src="./public/record.gif" width='700' alt="New Typing Avatars"/></a></p>
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
@@ -32,3 +30,6 @@ export default {
 - Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+
+
+powered by hightecular95908
